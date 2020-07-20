@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "alwaysStrict": true,
+    "experimentalDecorators": true,
+    "lib": ["es2018"],
+    "module": "commonjs",
+    "noFallthroughCasesInSwitch": true,
+    "noEmit": true,
+    "strict": true,
+    "target": "ES2018"
+  },
+  "include": [
+    "src"
+  ],
+  "exclude": ["cdk.out"]
+}
